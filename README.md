@@ -1,6 +1,7 @@
 # dmoney-api-automation
 ## Technology and tool used
 - postman
+- newman
 ## API Documents
 https://documenter.getpostman.com/view/21251711/2s8YszPW3p
 ## Scenario of this project
